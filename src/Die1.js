@@ -1,3 +1,5 @@
+// Taken from https://github.com/tryton-vanmeer/React-Dice-Roller and modified
+
 import React from 'react';
 import './Die.css';
 
